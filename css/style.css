@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header > h2 {
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4rem;
+    margin-right: 25%;
+
+}
+
+header > img {
+    height: 50vh;
+}
+
+main {
+    margin-right: 25%;
+    font-weight: 75;
+    margin: 10% 0% 10%;
+}
+
+nav {
+    width: 100vw;
+}
+
+nav > a {
+    background-color: dodgerblue;
+    color: white;
+    /* padding: 15px 20px; */
+    text-align: center;
+    border-radius: 25px;
+    display: block;
+    padding: 20px;
+    margin: 3px;
+    text-decoration: none;
+}
+
+div > a {
+    background-color: white;
+    color: black;
+    border: 2px solid dodgerblue;
+    /* padding: 15px 20px; */
+    text-align: center;
+    border-radius: 25px;
+    display: block;
+        padding: 20px;
+            margin: 3px;
+            text-decoration: none;
+}
